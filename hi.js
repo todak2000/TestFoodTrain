@@ -1,1 +1,1 @@
-console.log("hi foodtrain- develop");
+console.log("hi foodtrain- splashscreen");
